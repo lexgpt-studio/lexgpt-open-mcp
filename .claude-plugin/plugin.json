@@ -1,0 +1,18 @@
+{
+  "name": "lexgpt-open",
+  "version": "0.1.0",
+  "description": "Personal-assistant MCP for LexGPT Open tasks, supplied deadlines, communications, reminders, integration status and prepared case-file evidence.",
+  "author": {
+    "name": "LexGPT",
+    "email": "contato@lexgpt.com.br",
+    "url": "https://lexgpt.com.br"
+  },
+  "homepage": "https://lexgpt.com.br/open#mcp",
+  "keywords": [
+    "personal-assistant",
+    "tasks",
+    "deadlines",
+    "case-files",
+    "brazil"
+  ]
+}
